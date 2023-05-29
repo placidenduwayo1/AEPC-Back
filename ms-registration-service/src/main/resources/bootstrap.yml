@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ms-registration-service
+  cloud:
+    config:
+      uri:
+        - http://ms-config-api:8280
+  main:
+    banner-mode: off

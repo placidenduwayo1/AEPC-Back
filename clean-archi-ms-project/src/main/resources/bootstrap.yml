@@ -1,0 +1,9 @@
+spring:
+  main:
+    banner-mode: off
+  application:
+    name: clean-archi-bs-ms-project
+  cloud:
+    config:
+      uri: http://ms-config-api:8280
+     # uri: http://localhost:8280

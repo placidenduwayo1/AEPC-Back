@@ -1,0 +1,11 @@
+spring:
+  main:
+    banner-mode: off
+  application:
+    name: clean-archi-bs-ms-project
+  cloud:
+    config:
+      uri: http://ms-config-api:8280
+  config:
+    activate:
+      on-profile: develop

@@ -1,0 +1,11 @@
+server:
+  port: 8281
+spring:
+  application:
+    name: back-front-gateway-service
+  cloud:
+    config:
+      uri: http://ms-config-api:8280
+  config:
+    activate:
+      on-profile: develop

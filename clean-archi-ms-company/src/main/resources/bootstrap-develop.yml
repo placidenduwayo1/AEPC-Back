@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: clean-archi-bs-ms-company
+  cloud:
+    config:
+      uri: http://ms-config-api:8280
+  config:
+    activate:
+      on-profile: develop
+

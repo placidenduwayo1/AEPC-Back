@@ -1,0 +1,8 @@
+server:
+  port: 8381
+spring:
+  application:
+    name: back-front-gateway-service
+  cloud:
+    config:
+      uri: http://ms-config-api:8280

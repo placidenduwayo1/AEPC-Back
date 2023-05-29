@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: clean-archi-bs-ms-company
+  cloud:
+    config:
+      uri: http://ms-config-api:8280
+     #uri: http://localhost:8280

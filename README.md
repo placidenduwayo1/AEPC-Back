@@ -29,4 +29,4 @@ Here is a docker compose of deployment all docker images of application [docker-
    
 
 # Back and front architecture: 
-[architecture](https://drive.google.com/file/d/1cl-0_Iv-YiYb8pXeH6rUK0WdogEmwGNl/view?usp=share_link)
+![spring-cloud-microservices-config-server-2](https://github.com/placidenduwayo1/AEPC-Back/assets/124048212/386f76ee-1de2-4224-8ca9-9521c70a989d)
